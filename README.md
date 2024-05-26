@@ -12,11 +12,12 @@ This project requires the following dependencies:
 
 This application includes the following features:
 
-1. **Simple Sign In and Sign Up with Administrator Privileges**: Users can easily sign in and sign up, with distinct privileges for administrators to manage the application more effectively.
-2. **User-Friendly GUI**: The graphical user interface is designed to be simple and easy to use, ensuring a smooth user experience.
-3. **Support for Reservations and Dine-In**: Users can make reservations or choose to dine in, providing flexibility and convenience.
-4. **Order Status Relay and Recording**: The application tracks and records the status of every order, ensuring accurate and up-to-date information.
-5. **Current Table Availability Check**: Users can check the availability of tables in real-time, helping them make informed decisions.
+1. Simple sign in and sign up differentiating administrator privilege.
+2. Only administrator can view the simple financial report.
+3. Simple and easy-to-user GUI.
+4. Supporting reservations and dine-in.
+5. Status relay and recording for every order.
+6. Check current table availability.
 
 ## Getting Started
 
